@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DAM2_3</string>
+    <string name="user_description_img">Icon user</string>
+
+
+    <string name="create_titulo">CREAR USUARIO</string>
+    <string name="update_titulo">INFORMACION DE USUARIO</string>
+
+</resources>
